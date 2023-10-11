@@ -4,7 +4,7 @@ public class TestApp {
         System.out.println(shape);
         System.out.print(shape.getPerimeter() + " ");
         System.out.print(shape.getClass().getName() + " ");
-         System.out.println("Has an area of " +shape.getArea() + " ");
+         System.out.println("Has a area of " +shape.getArea() + " ");
         System.out.println();
     }
 
